@@ -1,0 +1,52 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80);
+    background-size: 1400px;
+}
+
+
+h1, h2, h3 {
+    text-align: center;
+    color: azure;
+}
+
+
+table, th, td {
+    border: 1px solid black;
+    font-family: monospace;
+    text-align: center;
+    font-size: 15px;
+  }
+
+table {
+    background-color:grey;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px double black;
+    border-radius: 20px;
+    color: white;
+    padding: 5px;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 25px;
+}
+ul, li, a{
+    color:azure;
+    /*list-style-position: inside;*/
+    /*background-color: black;*/
+    width: 175px;
+    margin: 0 auto;
+  }
+
+  li {
+      display: inline-block;
+      
+  }
